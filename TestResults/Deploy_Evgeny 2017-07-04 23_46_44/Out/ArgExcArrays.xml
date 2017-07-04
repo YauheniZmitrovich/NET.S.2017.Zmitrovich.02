@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TestCases>
+  <TestCase>
+    <array>0 7</array>
+  </TestCase>
+  <TestCase>
+    <array>1</array>
+  </TestCase>
+  <TestCase>
+    <array> </array>
+  </TestCase>
+</TestCases>

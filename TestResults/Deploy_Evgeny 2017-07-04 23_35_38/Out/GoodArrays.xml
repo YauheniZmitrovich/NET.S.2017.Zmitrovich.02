@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TestCases>
+  <TestCase>
+    <array>1 2 3 4 3 2 1</array>
+    <expectedIndex>3</expectedIndex>
+  </TestCase>
+  <!--<TestCase>
+    <array>1 100 50 -51 1 1</array>
+    <expectedIndex>1</expectedIndex>
+  </TestCase>
+  <TestCase>
+    <array>9 9 -5 3 5 4 6</array>
+    <expectedIndex>2</expectedIndex>
+  </TestCase>
+  <TestCase>
+    <array>9 9 0 3 5 4 6</array>
+    <expectedIndex>2</expectedIndex>
+  </TestCase>-->
+</TestCases>
